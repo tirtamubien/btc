@@ -1,0 +1,19 @@
+{
+    "autosave": true,
+    "donate-level": 10,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": null,
+            "url": "rx.unmineable.com:3333",
+            "user": "BTC:1CaDoHNviHVCyaTEJj7KvZ8pZzsUqBjGX9.lesmana#4gin-qwl0",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}

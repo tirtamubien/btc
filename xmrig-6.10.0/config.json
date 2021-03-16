@@ -1,7 +1,7 @@
 {
     "autosave": true,
     "donate-level": 10,
-    "cpu": false,
+    "cpu": true,
     "opencl": false,
     "cuda": false,
     "pools": [
